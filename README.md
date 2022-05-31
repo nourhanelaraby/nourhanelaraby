@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nourhanelaraby&label=Profile%20views&color=0e75b6&style=flat" alt="nourhanelaraby" /> </p>
 
-- 🔭 I’m currently working on **time series forecasting project**
+- 🔭 I’m currently studying **MLops**
 
-- 🌱 I’m currently learning **SQl ,Machine Learning ,Data Structures and Algorithms**
+- 🌱 I’m currently learning **SQl ,Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **data analysis and machine learning projects**
 
